@@ -6,4 +6,4 @@ Git tracks changes of files.
 learn how to use branch.
 Create a new branch is quick and simple,fast & easy.
 Haha,who is right?
-
+use --no-ff mode in merge.
